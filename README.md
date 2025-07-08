@@ -72,10 +72,10 @@
 2. then create Launch template 
 ![caption](/img/2.create-launch-template.jpg)
 
-3. Creating Launch template by selecting the AMI
+3. Creating Launch template by selecting the AMI. For my project  i use amazon AMI.
 ![caption](/img/3.create-launch-interface.jpg)
 
-4. select the instance type
+4. select the instance type. This is the size of the cpu you need to run the instance
 ![caption](/img/4.launch-interface.jpg)
 
 5. you can add a user data
